@@ -39,7 +39,7 @@ pause
 :END
 ```
 
-[bootloader_upload_script_samd51.zip](https://github.com/MatthewJeffson/OSHW-WioTerminal/tree/main/05%20Production%20Testing%20Plan/bootloader_upload_script_samd51)
+[bootloader_upload_script_samd51](https://github.com/MatthewJeffson/OSHW-WioTerminal/tree/main/05%20Production%20Testing%20Plan/bootloader_upload_script_samd51)
 
 ## 2. Flash test firmware
 
@@ -54,7 +54,7 @@ python2 1.ReceiveSerial.py
 cd..
 ```
 
-[firmware_upload_script_usb.zip](https://github.com/MatthewJeffson/OSHW-WioTerminal/tree/main/05%20Production%20Testing%20Plan/firmware_upload_script_usb)
+[firmware_upload_script_usb](https://github.com/MatthewJeffson/OSHW-WioTerminal/tree/main/05%20Production%20Testing%20Plan/firmware_upload_script_usb)
 
 ## 3. Function test
 
@@ -107,7 +107,7 @@ echo command failed
 pause
 ```
 
-[ambd_flash_tool.zip](https://github.com/MatthewJeffson/OSHW-WioTerminal/tree/main/05%20Production%20Testing%20Plan/ambd_flash_tool)
+[ambd_flash_tool](https://github.com/MatthewJeffson/OSHW-WioTerminal/tree/main/05%20Production%20Testing%20Plan/ambd_flash_tool)
 
 After flash the firware, the screen will show as below
 
