@@ -1,1 +1,0 @@
-Here is the schematic diagram for Wio Terminal in PDF.
