@@ -6,7 +6,7 @@
 
 [J-Link BASE Debug Probe](https://www.segger.com/products/debug-probes/j-link/models/j-link-base/)
 
-![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.001.png) ![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.002.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.001.png) ![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.002.png)
 
 ## Wio Terminal port for program firmware
 
@@ -17,7 +17,7 @@
 |3 |Pin-9 |SWCLK |J7-1 |SWDCLK |
 |4 |Pin-12 |GND |J7-5 |GND |
 
-![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.003.png) ![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.004.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.003.png) ![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.004.png)
 
 ### Flash Script
 
@@ -60,19 +60,19 @@ cd..
 
 ### a. Screen Test
 
-![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.007.png)![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.008.png)![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.009.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.007.png)![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.008.png)![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.009.png)
 
 ### b. Function Test
 
 Hardware connection when testing-fpc connector
 
-![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.010.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.010.png)
 
 Hardware connection when testing-Raspberry Pi Header
 
-![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.011.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.011.png)
 
-![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.012.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.012.png)
 
 ## 4. Flash End User Firmware
 
@@ -111,4 +111,4 @@ pause
 
 After flash the firware, the screen will show as below
 
-![](Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.014.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.014.png)
