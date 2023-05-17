@@ -1,0 +1,8 @@
+__pycache__/
+build/
+dist/
+debug.log
+*.spec
+/km0_boot_all.bin
+/km4_boot_all.bin
+/km0_km4_image2.bin

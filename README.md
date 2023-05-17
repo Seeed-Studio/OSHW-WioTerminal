@@ -34,7 +34,7 @@ For those who wish to design and manufacture their own versions of Wio Terminal,
 
 ## License
 
-This project is licensed under the Apache-2.0 License. By using, distributing, or contributing to this project, you agree to the terms and conditions of this license.
+This project is licensed under the [Apache-2.0 License](/LICENSE). By using, distributing, or contributing to this project, you agree to the terms and conditions of this license.
 
 ## Let's Open Manufacturing Together!
 
