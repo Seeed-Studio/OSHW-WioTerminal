@@ -30,7 +30,7 @@ For more information on the Wio Terminal, please refer to the following links:
 
 ## Fusion Quick Pass
 
-For those who wish to design and manufacture their own versions of Wio Terminal, our Fusion service offers quick and high-quality services. We also encourage you to share your own versions of Wio Terminal for display and exchange with the community.
+For those who wish to design and manufacture their own versions of Wio Terminal, our [Fusion service](https://www.seeedstudio.com/fusion.html) offers quick and high-quality services. We also encourage you to share your own versions of Wio Terminal for display and exchange with the community.
 
 ## License
 
