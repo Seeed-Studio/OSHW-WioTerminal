@@ -1,0 +1,1 @@
+bootloader-wio_terminal-v3.7.0-79-gd73dd64.bin	--Wio Terminal SADM51 Bootloader

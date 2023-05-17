@@ -1,0 +1,2 @@
+https://github.com/Seeed-Studio/ArduinoCore-samd
+https://github.com/Seeed-Studio/SenseCraft
