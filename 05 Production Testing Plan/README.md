@@ -107,7 +107,7 @@ echo command failed
 pause
 ```
 
-[ambd_flash_tool.zip](https://drive.weixin.qq.com/s?k=AGEAZwfLABEfeMBB1KAb8ACQYAAEM)
+[ambd_flash_tool.zip](https://github.com/MatthewJeffson/OSHW-WioTerminal/tree/main/05%20Production%20Testing%20Plan/ambd_flash_tool)
 
 After flash the firware, the screen will show as below
 
