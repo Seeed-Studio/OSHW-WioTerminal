@@ -25,7 +25,7 @@ This repository contains all the necessary documentation to manufacture Wio Term
 For more information on the Wio Terminal, please refer to the following links:
 
 - [Learn or Buy](https://www.seeedstudio.com/Wio-Terminal-p-4509.html)
-- [Wio Terminal Wiki](https://wiki.seeedstudio.com/Wio-Terminal/)
+- [Wio Terminal Wiki](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started)
 
 ## Fusion Quick Pass
 
