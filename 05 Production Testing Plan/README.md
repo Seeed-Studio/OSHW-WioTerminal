@@ -17,7 +17,7 @@
 |3 |Pin-9 |SWCLK |J7-1 |SWDCLK |
 |4 |Pin-12 |GND |J7-5 |GND |
 
-![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.003.png) ![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.004.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/testplan2.jpg) ![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/testplan3.jpg)
 
 ### Flash Script
 
@@ -66,13 +66,13 @@ cd..
 
 Hardware connection when testing-fpc connector
 
-![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.010.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/testplan4.jpg)
 
 Hardware connection when testing-Raspberry Pi Header
 
-![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.011.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/testplan5.jpg)
 
-![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.012.png)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/testplan6.jpg)
 
 ## 4. Flash End User Firmware
 
