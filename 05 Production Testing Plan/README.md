@@ -72,7 +72,7 @@ Hardware connection when testing-Raspberry Pi Header
 
 ![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/testplan5.jpg)
 
-![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/testplan6.jpg)
+![](https://files.seeedstudio.com/wiki/Wio-Terminal/OSHW/Aspose.Words.404a1889-d01e-409a-8ee3-e39eb935ba1e.012.png)
 
 ## 4. Flash End User Firmware
 
