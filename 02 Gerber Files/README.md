@@ -1,0 +1,1 @@
+Here are all the standard files for the circuit board used to make Wio Terminal.

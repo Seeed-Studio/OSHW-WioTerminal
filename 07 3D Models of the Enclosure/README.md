@@ -1,0 +1,1 @@
+Here is a 3D model file of the Wio Terminal's casing appearance

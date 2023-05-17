@@ -1,0 +1,1 @@
+Here are the steps for testing Wio Terminal when finished producing.
