@@ -40,11 +40,13 @@ For more information on the Wio Terminal, please refer to the following links:
 
 For those who wish to design and manufacture their own versions of Wio Terminal, our [Fusion service](https://www.seeedstudio.com/fusion.html) offers quick and high-quality services. We also encourage you to share your own versions of Wio Terminal for display and exchange with the community.
 
-## A Chance To Get 2PCS Free PCBA from Seeed Fusion
+## [A Chance To Get 2PCS Free PCBA from Seeed Fusion](https://www.seeedstudio.com/blog/2023/05/25/from-concept-to-creation-join-the-wio-terminal-movement-and-fabricate-your-own-open-source-hardware-for-a-chance-to-get-2pcs-free-pcba-from-seeed-fusion/)
 
 In order to give back to our community and make your great ideas a reality, Seeed Studio Fusion is launching the Wio Terminal open source movement to help capable engineers, individual developers turn their designs into real products.
 
 For those who wish to design and manufacture their own versions of Wio Terminal, our SeeedStudio Fusion Agile manufacturing offers quick and high-quality PCB Assembly service. One more thing to clarify is that please make sure that you are capable of designing and have all the production files ready for us. Moreover, once your idea/proposal is approved by us, each person is limited to two PCBA boards 100% completely FREE for one Wio Terminal design, including PCB fabrication, the cost of parts, assembly and free worldwide delivery.
+
+Please fill out the form: https://forms.gle/uic7bVA8SnuJLFR3A to submit your Wio Terminal design proposal. 
 
 ![wioterminal](https://www.seeedstudio.com/blog/wp-content/uploads/2023/05/wio%E6%B4%BB%E5%8A%A8banner1200x628.png)
 
