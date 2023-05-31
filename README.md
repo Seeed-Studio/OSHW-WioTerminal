@@ -48,7 +48,7 @@ For those who wish to design and manufacture their own versions of Wio Terminal,
 
 Please fill out the form: https://forms.gle/uic7bVA8SnuJLFR3A to submit your Wio Terminal design proposal. 
 
-![wioterminal](https://www.seeedstudio.com/blog/wp-content/uploads/2023/05/wio%E6%B4%BB%E5%8A%A8banner1200x628.png)
+![wioterminal](https://www.seeedstudio.com/blog/wp-content/uploads/2023/05/wio%E6%B4%BB%E5%8A%A8banner1200x6282.png)
 
 ## License
 
