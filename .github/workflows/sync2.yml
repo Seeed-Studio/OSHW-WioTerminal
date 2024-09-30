@@ -1,6 +1,7 @@
 name: Sync Issues to Project Board
 
 on:
+  workflow_dispatch: # Manual trigger
   issues:
     types: [opened]
 
