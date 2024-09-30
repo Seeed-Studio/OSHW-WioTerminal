@@ -1,0 +1,29 @@
+name: Sync Issues to Project Board
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  add-to-project:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add issue to project
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const projectId = "17"; // Replace PROJECT_ID with your actual project ID
+            const issueNodeId = context.payload.issue.node_id;
+            const columnId = "6"; // Replace COLUMN_ID with the default column ID for new issues
+            github.graphql(`
+              mutation ($projectId: ID!, $contentId: ID!) {
+                addProjectV2ItemById(input: {projectId: $projectId, contentId: $contentId}) {
+                  item {
+                    id
+                  }
+                }
+              }
+            `, {
+              projectId: projectId,
+              contentId: issueNodeId
+            });
