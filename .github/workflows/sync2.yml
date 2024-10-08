@@ -21,5 +21,6 @@ jobs:
         with:
           project-url: https://github.com/orgs/Seeed-Studio/projects/17
           github-token: ${{ secrets.ISSUE_ASSEMBLE }}
+          content-id: ${{ github.event.issue.node_id }}
           labeled: bug
           label-operator: NOT
