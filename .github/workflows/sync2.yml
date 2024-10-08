@@ -1,30 +1,25 @@
-name: Sync Issues to Project Board
+name: Automate Issue Management
 
 on:
   workflow_dispatch: # Manual trigger
   issues:
-    types: [opened]
+    types:
+      - opened
+      - edited
+      - assigned
+      - unassigned
+      - labeled
+      - unlabeled
+      - reopened
 
 jobs:
-  add-to-project:
+  add_issue_to_project:
     runs-on: ubuntu-latest
     steps:
-      - name: Add issue to project
-        uses: actions/github-script@v6
+      - name: Add issue to GitHub Project
+        uses: actions/add-to-project@v1.0.2
         with:
-          script: |
-            const projectId = "17"; // Replace PROJECT_ID with your actual project ID
-            const issueNodeId = context.payload.issue.node_id;
-            const columnId = "6"; // Replace COLUMN_ID with the default column ID for new issues
-            github.graphql(`
-              mutation ($projectId: ID!, $contentId: ID!) {
-                addProjectV2ItemById(input: {projectId: $projectId, contentId: $contentId}) {
-                  item {
-                    id
-                  }
-                }
-              }
-            `, {
-              projectId: projectId,
-              contentId: issueNodeId
-            });
+          project-url: https://github.com/orgs/Seeed-Studio/projects/17
+          github-token: ${{ secrets.ISSUE_ASSEMBLE }}
+          labeled: bug
+          label-operator: NOT
