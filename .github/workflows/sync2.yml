@@ -17,7 +17,7 @@ jobs:
       - name: Add Issue or PR to Project
         uses: actions/add-to-project@v1.0.2
         with:
-          project-url: 'https://github.com/orgs/Seeed-Studio/projects/17/views/1'
+          project-url: https://github.com/orgs/Seeed-Studio/projects/17
           github-token: ${{ secrets.ISSUE_ASSEMBLE }}
           labeled: 'bug,enhancement,question' # Replace with your desired labels
           label-operator: 'NOT' # Options: AND, OR, NOT (default is OR)
