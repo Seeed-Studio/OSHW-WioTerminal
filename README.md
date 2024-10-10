@@ -1,4 +1,4 @@
-# Wio Terminal: Fabricatable Open Source Hardware
+# Wio Terminal: Fabricatable Open Source Hardware 
 
 ![wio terminal](https://files.seeedstudio.com/wiki/Wio-Terminal/img/Wio-Terminal-Wiki.jpg)
 
